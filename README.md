@@ -23,14 +23,15 @@ A modern **Space Invaders** game in Python using **Pygame** and **MediaPipe** fo
 /```bash
 /pip install pygame opencv-python mediapipe/
 
-## How to Run
+## How to Run ?
 python shoot.py
 
-## Notes
+## Notes 📝 
 Game supports gesture control but works fully with keyboard if webcam is unavailable.
 Power-ups and strong aliens appear as you progress through levels.
 Game automatically saves top scores in high_score.txt.
 Recommended to run in a well-lit environment for gesture detection.
 
 👨‍💻 Author
+
 Aditya Roy – Demo Game | Python, Pygame & Gesture Control
